@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="main.css"?>
+
+<Concert location="New York">
+	<Band>
+		<bandName>The Eagles &#xD; </bandName>
+		<bandMembers> 
+			<Musician instrument="Vocals">Glenn Frey &#xD;</Musician>
+			<Musician instrument="Guitar">Don Henley &#xD;</Musician>
+			<Musician instrument="Guitar">Joe Walsh</Musician>
+			<Musician instrument="bass">Randy Meisner</Musician>
+			<Musician instrument="drums">Bernie Leadon</Musician>
+		</bandMembers>
+		
+		<setList>
+			<header>Set List</header>
+			<Song track="1">
+				<Title>1. Take It Easy</Title>
+				<Genre>Rock</Genre>
+				<Album>Eagles:1972</Album>
+				<Year>1972</Year>
+			</Song>
+			
+			<Song track="2">
+				<Title>2. Witchy Woman</Title>
+				<Genre>Rock</Genre>
+				<Album>Eagles</Album>
+				<Year>1972</Year>
+			</Song>
+			
+			<Song track="3">
+				<Title>3. Lyin' Eyes</Title>
+				<Genre>Rock</Genre>
+				<Album>One of These Nights</Album>
+				<Year>1975</Year>
+			</Song>
+			<Song track="4">
+				<Title>4. Already Gone</Title>
+				<Genre>Rock</Genre>
+				<Album>On the Border</Album>
+				<Year>1974</Year>
+			</Song>
+			
+			<Song track="5">
+				<Title>5. Desperado</Title>
+				<Genre>Soft Rock</Genre>
+				<Album>Desperdo</Album>
+				<Year>1973</Year>
+			</Song>
+			
+			<Song track="6">
+				<Title>6. One of These Nights</Title>
+				<Genre>Soft Rock</Genre>
+				<Album>One of These Nights</Album>
+				<Year>1975</Year>
+			</Song>
+			
+			<Song track="7">
+				<Title>7. Tequila Sunrise</Title>
+				<Genre>Rock</Genre>
+				<Album>Desperdo</Album>
+				<Year>1973</Year>
+			</Song>
+			
+			<Song track="8">
+				<Title>8. Take it to the Limit</Title>
+				<Genre>Soft Rock</Genre>
+				<Album>One of These Nights</Album>
+				<Year>1975</Year>
+			</Song>
+			
+			<Song track="9">
+				<Title>9. Peaceful Easy Feeling</Title>
+				<Genre>Rock</Genre>
+				<Album>Eagles</Album>
+				<Year>1972</Year>
+			</Song>
+			
+			<Song track="10">
+				<Title>10. Best of my love</Title>
+				<Genre>Rock</Genre>
+				<Album>On the Border</Album>
+				<Year>1974</Year>
+			</Song>
+			
+			<Song track="11" type="cover">
+				<Title>11. S.O.S</Title>
+				<Genre>Pop Rock</Genre>
+				<Album>ABBA</Album>
+				<Year>1975</Year>
+			</Song>
+	
+		</setList>
+		
+	</Band>
+	
+		
+		
+		
+</Concert>

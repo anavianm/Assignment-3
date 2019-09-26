@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+Concert{
+	white-space: pre-wrap;
+	background-color: #FFF;
+	color: #673AB7;
+}
+
+bandName{
+	font-size: 40px;
+
+}
+
+bandMembers{
+
+	font-size: 18px;
+}
+
+Songlist{
+	font-size: 30px;
+}
+
+header{
+	font-size: 24px;
+}
+
+Song Title{
+	text-decoration: underline;
+	font-size: 25px;
+}
+
+Song Genre{
+
+	font-size: 18px;
+}
+
+Song Year{
+
+	font-size: 18px;
+}
+
+Song Album{
+
+	font-size: 18px;
+}
